@@ -32,3 +32,8 @@
 *.app
 
 test/*
+
+target/
+Cargo.lock
+
+out/
